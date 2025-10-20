@@ -1,4 +1,4 @@
 # apnacollege_demo
 This is my first Git Repository
 <br>
-Author-Bushara Sayyad
+Author-Bushara (apna college)
